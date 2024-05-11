@@ -1,0 +1,13 @@
+{
+  "name": "fixedVector",
+  "packages": [
+    "std"
+  ],
+  "dev": {
+    "compiler": "clang++",
+    "packages": [
+      "std",
+      "makeDotCpp"
+    ]
+  }
+}
